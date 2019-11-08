@@ -1,3 +1,3 @@
 # testGHComment
 
-trigger
+trigger2
